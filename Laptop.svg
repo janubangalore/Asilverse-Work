@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1215" height="794.001" viewBox="0 0 1215 794.001">
+  <g id="Group_42" data-name="Group 42" transform="translate(-353 -707)">
+    <g id="Group_39" data-name="Group 39" transform="translate(-4541 2)">
+      <g id="Group_37" data-name="Group 37" transform="translate(184.035 -57.981)">
+        <path id="Rectangle_4" data-name="Rectangle 4" d="M64,0H963a64,64,0,0,1,64,64V768a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V64A64,64,0,0,1,64,0Z" transform="translate(4803.965 762.981)" fill="#167d5a"/>
+        <path id="Rectangle_3" data-name="Rectangle 3" d="M52,0H933a52,52,0,0,1,52,52V745a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V52A52,52,0,0,1,52,0Z" transform="translate(4824.965 781.981)" fill="#fff"/>
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="4" cy="4.5" rx="4" ry="4.5" transform="translate(5313.965 767.981)" fill="#fff"/>
+      </g>
+      <g id="Group_38" data-name="Group 38" transform="translate(4541 -49)">
+        <path id="Union_1" data-name="Union 1" d="M607.5,0V20.567l578.291-1.354c3.209,0,7.045-2.171,8.144-2.836L1215,1.157c0-.638-.9-1.157-2-1.157ZM2,0C.9,0,0,.519,0,1.157l21.065,15.22c1.1.665,4.934,2.836,8.144,2.836L607.5,20.567V0Z" transform="translate(353 1527.434)" fill="#37b087"/>
+        <path id="Rectangle_5" data-name="Rectangle 5" d="M5,0H1210a5,5,0,0,1,5,5V16a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V5A5,5,0,0,1,5,0Z" transform="translate(353 1512)" fill="#1c8b66"/>
+      </g>
+    </g>
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M132,33H12a5.006,5.006,0,0,1-5-5H137A5.006,5.006,0,0,1,132,33Z" transform="translate(888 1437)" fill="#37b087"/>
+  </g>
+</svg>
